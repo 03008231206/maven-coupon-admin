@@ -1,0 +1,6 @@
+.btn-soft {
+  @apply px-4 py-2 rounded-xl text-sm font-semibold
+  bg-slate-100 text-slate-800
+  hover:bg-slate-200 hover:shadow
+  transition-all duration-150;
+}
